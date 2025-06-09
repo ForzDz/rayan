@@ -49,7 +49,7 @@ const AppShowcase = () => {
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="/public/images/web backgound.jpg" alt="Ryde App Interface" />
+              <img src="/public/images/project1.png" alt="Ryde App Interface" />
             </div>
             <div className="text-content">
               <h2>
@@ -73,7 +73,7 @@ const AppShowcase = () => {
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
-                  src="/public/images/333.jpg"
+                  src="/public/images/2.png"
                   alt="Library Management Platform"
                 />
               </div>
@@ -88,7 +88,7 @@ const AppShowcase = () => {
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
-                <img src="/public/images/ddd.png" alt="YC Directory App" />
+                <img src="/public/images/smart sclae.png" alt="YC Directory App" />
               </div>
               <h2> Landing Page Optimization
               </h2>
