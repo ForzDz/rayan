@@ -8,24 +8,20 @@ const navLinks = [
     link: "#experience",
   },
   {
-    name: "Skills",
-    link: "#skills",
-  },
-  {
-    name: "Testimonials",
-    link: "#testimonials",
+    name: "Contact",
+    link: "#contact",
   },
 ];
 
 const words = [
-  { text: "digital markete", imgPath: "/images/ideas.svg" },
-  { text: "online store", imgPath: "/images/concepts.svg" },
+  { text: "Marketing", imgPath: "/images/ideas.svg" },
+  { text: "Online Store", imgPath: "/images/concepts.svg" },
   { text: "Dropshipping", imgPath: "/images/designs.svg" },
-  { text: "digital markete", imgPath: "/images/code.svg" },
-  { text: "digital markete", imgPath: "/images/ideas.svg" },
-  { text: "online stor", imgPath: "/images/concepts.svg" },
-  { text: "Dropshipping", imgPath: "/images/designs.svg" },
-  { text: "digital markete", imgPath: "/images/code.svg" },
+  { text: "frontend dev", imgPath: "/images/code.svg" },
+  { text: "frontend dev", imgPath: "/images/ideas.svg" },
+  { text: "Dropshipping", imgPath: "/images/concepts.svg" },
+  { text: "Online Store", imgPath: "/images/designs.svg" },
+  { text: "marketing", imgPath: "/images/code.svg" },
 ];
 
 const counterItems = [
@@ -147,10 +143,10 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "I'm Rayane Aras, an eCommerce digital marketer and the founder of Rayan Shop, an online boutique that delivers across all 58 wilayas. I specialize in running high-performing Facebook Ads to promote existing beauty products. ",
+    review: "I'm Yacine, an eCommerce digital marketer and the founder of Rayan Shop, an online boutique that delivers across all 58 wilayas. I specialize in running high-performing Facebook Ads to promote existing beauty products. ",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
+    title: "front-end development.",
     date: "January 2023 - Present 2025",
     responsibilities: [
       "Developed and maintained user-facing features for the Hostinger website.",
@@ -162,7 +158,7 @@ const expCards = [
     review: "My work helps brands and my own shop reach more customers, convert more sales, and build trust through engaging, bilingual (Arabic/French) campaigns.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "e-commerce",
+    title: "Dropshipping",
     date: "June 2022 - December 2024",
     responsibilities: [
       "Driven and results-focused e-commerce specialist with a knack for optimizing online shopping experiences.",
@@ -173,7 +169,7 @@ const expCards = [
     review: "To encourage customers to order and buy your product, you need to create a modern and creative video that attracts people and solves targeted problems.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "vidéo editor",
+    title: "vidéo editing",
     date: "March 2020 - May 2022",
     responsibilities: [
       "Creative and detail-oriented video editor with a passion for storytelling.",
@@ -246,15 +242,15 @@ const testimonials = [
 const socialImgs = [
   {
     imgPath: "/images/insta.png",
-    link: "https://www.instagram.com/rayanforz/",
+    link: "https://www.instagram.com/yaacine_off/",
   },
   {
     imgPath: "/images/fb.png",
-    link: "https://www.facebook.com/rayanforz",
+    link: "https://www.facebook.com/yacine.ar.1/",
   },
   {
     imgPath: "/images/linkedin.png",
-    link: "#",
+    link: "https://www.linkedin.com/in/yacine-med/",
   },
 ];
 

@@ -27,7 +27,7 @@ const Hero = () => {
           <div className="flex flex-col gap-7">
             <div className="hero-text">
               <h1>
-                ARAS Rayan 
+                Yacine Dev
                 <span className="slide">
                   <span className="wrapper">
                     {words.map((word, index) => (
@@ -51,7 +51,10 @@ const Hero = () => {
             </div>
 
             <p className="text-white-70 md:text-xl relative z-10 pointer-events-none">
-              Hey, I'm Rayan, My objective is To boost sales of a popular skincare product. ✅ 
+            Hi, <b>I'm Yacine</b>. My goal is to drive sales growth for a high-potential skincare product✅ 
+            </p>
+            <p className="text-white-70 md:text-xl relative z-10 pointer-events-none">
+            build a career as a front-end developer by creating and showcasing on freelance platforms.
             </p>
 
             <Button

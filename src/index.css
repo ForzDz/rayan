@@ -182,6 +182,14 @@ section {
         h2 {
           @apply text-2xl md:text-3xl lg:text-4xl font-bold;
         }
+
+        ul {
+          @apply list-disc pl-6;
+
+          li {
+            @apply font-semibold;
+          }
+        }
       }
     }
 
@@ -469,4 +477,8 @@ section {
 
 .card:hover::before {
   opacity: 1;
+}
+
+.app-showcase .text-content ul li {
+  font-size: 1.18rem;
 }
